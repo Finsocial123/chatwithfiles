@@ -1,26 +1,26 @@
 # Core web framework - updated for Python 3.12 compatibility
-# fastapi
-# uvicorn
-# python-multipart
-# pydantic
-# typing-extensions
+fastapi
+uvicorn
+python-multipart
+pydantic
+typing-extensions
 
 # # Utility packages
-# aiofiles
-# python-dotenv
-# requests
+aiofiles
+python-dotenv
+requests
 
 # # LLM packages - updated versions
-# langchain
-# langchain-community
-# llama-index-core
-# llama-index-llms-ollama
-# llama-index-embeddings-huggingface
-# openai
+langchain
+langchain-community
+llama-index-core
+llama-index-llms-ollama
+llama-index-embeddings-huggingface
+openai
 
 # # Document handling
-# pygments
-# pypdf
-# docx2txt
-# openpyxl
-# sentence-transformers
+pygments
+pypdf
+docx2txt
+openpyxl
+sentence-transformers
